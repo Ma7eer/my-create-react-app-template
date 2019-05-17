@@ -1,0 +1,9 @@
+node_modules
+coverage
+dist
+build
+.build
+package.json
+public
+README.md
+*.css
